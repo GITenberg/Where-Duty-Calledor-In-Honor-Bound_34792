@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '37233'
     url: http://www.gutenberg.org/2009/agents/37233
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34792#Where-Duty-Calledor-In-Honor-Bound
 gutenberg_issued: '2010-12-30'
 gutenberg_type: Text
 identifiers:
