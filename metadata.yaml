@@ -1,0 +1,33 @@
+_repo: Where-Duty-Calledor-In-Honor-Bound_34792
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34792-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Browne, George Waldo
+    aliases:
+    - Clair, Victor St.
+    - Browne, George W. (George Waldo)
+    - Browne, G. Waldo (George Waldo)
+    - Saint Clair, Victor
+    birthdate: 1851
+    deathdate: 1930
+    gutenberg_agent_id: '37233'
+    url: http://www.gutenberg.org/2009/agents/37233
+description: ''
+gutenberg_issued: '2010-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34792'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young men -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Venezuela -- Juvenile fiction'
+title: Where Duty Called; or, In Honor Bound
+url: http://www.gutenberg.org/ebooks/34792
